@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\obj\Debug\netcoreapp3.1\GestioneCentroEstetico.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\obj\Debug\netcoreapp3.1\GestioneCentroEstetico.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\obj\Debug\netcoreapp3.1\GestioneCentroEstetico.AssemblyInfo.cs
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\bin\Debug\netcoreapp3.1\GestioneCentroEstetico.exe
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\bin\Debug\netcoreapp3.1\GestioneCentroEstetico.deps.json
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\bin\Debug\netcoreapp3.1\GestioneCentroEstetico.runtimeconfig.json
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\bin\Debug\netcoreapp3.1\GestioneCentroEstetico.runtimeconfig.dev.json
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\bin\Debug\netcoreapp3.1\GestioneCentroEstetico.dll
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\bin\Debug\netcoreapp3.1\GestioneCentroEstetico.pdb
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\obj\Debug\netcoreapp3.1\GestioneCentroEstetico.dll
+C:\Users\User\Desktop\Progetto PMO\GestioneCentroEstetico\GestioneCentroEstetico\obj\Debug\netcoreapp3.1\GestioneCentroEstetico.pdb
